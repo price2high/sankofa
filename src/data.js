@@ -8,7 +8,7 @@ export const calendarData = [
             name: 'Elizabeth Freeman ("Mum Bett")',
             dates: "(c. 1744–1829)",
             description: 'Enslaved in Massachusetts, Freeman sued for her freedom in 1781 (Brom and Bett v. Ashley), citing the state constitution\'s claim that "all men are born free and equal." Her victory set the legal precedent that effectively ended slavery in Massachusetts.',
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mumbett70.jpg/440px-Mumbett70.jpg"
+            imageUrl: "/sankofa/images/mumbett.png"
         },
         invention: {
             name: "Striking Wall Clock",
