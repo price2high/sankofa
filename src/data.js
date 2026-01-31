@@ -285,7 +285,7 @@ export const calendarData = [
             name: 'Bayard Rustin',
             dates: "(1912–1987)",
             description: "The master strategist of the Civil Rights Movement. As an openly gay man and former communist, he was forced to work in the shadows, yet he was the logistical genius behind the 1963 March on Washington.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bayard_Rustin_NYWTS_2.jpg"
+            imageUrl: "/sankofa/images/brustin.png"
         },
         invention: {
             name: "Automatic Elevator Doors",
@@ -310,7 +310,7 @@ export const calendarData = [
             name: 'William Hastie',
             dates: "(1904–1976)",
             description: "The first African American federal judge and Governor of the US Virgin Islands. Hastie was a brilliant legal strategist who mentored Thurgood Marshall and laid the architectural groundwork for Brown v. Board of Education.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Judge_William_Hunter_Hastie_1950_%28cropped%29.jpg"
+            imageUrl: "/sankofa/images/whastie.png"
         },
         invention: {
             name: "Fire Escape Ladder",
@@ -335,7 +335,7 @@ export const calendarData = [
             name: 'Fred Hampton',
             dates: "(1948–1969)",
             description: "The charismatic Chairman of the Illinois Black Panther Party. He brokered a non-aggression pact between Chicago's toughest gangs and formed the \"Rainbow Coalition,\" leading to his assassination by the FBI and Chicago Police.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fred_Hampton_1966.png"
+            imageUrl: "/sankofa/images/fredhampton.png"
         },
         invention: {
             name: "Home Security System",
@@ -362,7 +362,7 @@ export const calendarData = [
             name: 'Shirley Chisholm',
             dates: "(1924–2005)",
             description: "The first Black woman elected to Congress and the first to seek the Democratic presidential nomination. Her campaign motto, \"Unbought and Unbossed,\" defined her refusal to compromise her principles for political expediency.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Shirley_Chisholm_NYWTS.jpg"
+            imageUrl: "/sankofa/images/shirleychisholm.png"
         },
         invention: {
             name: "Sanitary Belt",
@@ -387,7 +387,7 @@ export const calendarData = [
             name: 'Kwame Ture (Stokely Carmichael)',
             dates: "(1941–1998)",
             description: "A SNCC leader who popularized the term \"Black Power.\" He moved the movement from non-violent resistance to a stance of self-defense and Pan-Africanism, arguing for the consolidation of Black political and economic power.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kwame_Ture_at_a_1966_Mississippi_press_conference.jpg"
+            imageUrl: "/sankofa/images/kwameture.png"
         },
         invention: {
             name: "Super Soaker",
@@ -412,7 +412,7 @@ export const calendarData = [
             name: 'Barbara Jordan',
             dates: "(1936–1996)",
             description: "The first Southern African American woman elected to the House of Representatives. Known for her thunderous eloquence, her opening statement during the Nixon impeachment hearings revitalized the nation's faith in the Constitution.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rep._Barbara_Jordan.jpg"
+            imageUrl: "/sankofa/images/barbarajordan.png"
         },
         invention: {
             name: "Foil Electret Microphone",
@@ -437,7 +437,7 @@ export const calendarData = [
             name: 'Audre Lorde',
             dates: "(1934–1992)",
             description: "A self-described \"black, lesbian, mother, warrior, poet,\" Lorde's work is central to intersectional feminism. She argued that \"the master's tools will never dismantle the master's house,\" calling for new ways of thinking and being.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Audre_Lorde_1980.jpg"
+            imageUrl: "/sankofa/images/audrelorde.png"
         },
         invention: {
             name: "Folding Cabinet Bed",
@@ -462,7 +462,7 @@ export const calendarData = [
             name: 'bell hooks',
             dates: "(1952–2021)",
             description: "A cultural critic who explored the \"imperialist white supremacist capitalist patriarchy.\" hooks democratized feminist theory, moving it from the ivory tower to the living room, and analyzed the impact of media on Black identity.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/77/Bellhooks.jpg"
+            imageUrl: "/sankofa/images/bellhooks.png"
         },
         invention: {
             name: "Dust Pan",
@@ -487,7 +487,7 @@ export const calendarData = [
             name: 'Eunice Hunton Carter',
             dates: "(1899–1970)",
             description: "A trailblazing lawyer and prosecutor. As the only woman and person of color on Thomas Dewey's team, she formulated the strategy to link Lucky Luciano to prostitution, securing his conviction when all other attempts failed.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eunice_Hunton_Carter.jpg"
+            imageUrl: "/sankofa/images/eunicecarter.png"
         },
         invention: {
             name: "Record Player Arm",
@@ -512,7 +512,7 @@ export const calendarData = [
             name: 'Jack Johnson',
             dates: "(1878–1946)",
             description: "The first Black heavyweight boxing champion. His 1910 victory over the \"Great White Hope\" Jim Jeffries sparked race riots. Johnson lived unapologetically, driving fast cars and dating white women in defiance of Jim Crow.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Jack_Johnson_boxer.jpg"
+            imageUrl: "/sankofa/images/jackjohnson.png"
         },
         invention: {
             name: "Wrench",
@@ -539,7 +539,7 @@ export const calendarData = [
             name: 'Katherine Johnson',
             dates: "(1918–2020)",
             description: "A NASA mathematician whose orbital mechanics calculations were critical to the success of the first U.S. crewed spaceflights. She verified the computer's numbers for John Glenn's orbit, ensuring his safe return.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Katherine_Johnson_at_NASA%2C_in_1966.jpg"
+            imageUrl: "/sankofa/images/katherinejohnson.png"
         },
         invention: {
             name: "Laserphaco Probe",
@@ -564,7 +564,7 @@ export const calendarData = [
             name: 'Jerry Lawson',
             dates: "(1940–2011)",
             description: "An engineer who led the team that created the Fairchild Channel F, the first video game console to use interchangeable cartridges. Before Lawson, games were hardwired into the system. He is the father of the modern gaming cartridge.",
-            imageUrl: "https://preview.redd.it/jerry-lawson-father-of-the-video-game-cartridge-v0-x13ylt41974d1.jpg?width=1080&crop=smart&auto=webp&s=cb5e347895e34b971e4f4fb8529288e7343e5c9b"
+            imageUrl: "/sankofa/images/jerrylawson.png"
         },
         invention: {
             name: "Video Game Cartridge",
@@ -586,10 +586,10 @@ export const calendarData = [
         day: 24,
         week: 4,
         figure: {
-            name: 'Marsha P. Johnson',
-            dates: "(1945–1992)",
-            description: "A transgender activist and key figure in the Stonewall Uprising. She co-founded STAR (Street Transvestite Action Revolutionaries) to provide housing for homeless queer youth, embodying the intersection of Black and LGBTQ+ liberation.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Marsha_P._Johnson_1970s_%28cropped%29.jpg"
+            name: 'James Perkins Jr.',
+            dates: "(1953–Present)",
+            description: "On September 12, 2000, James Perkins Jr. became the first African American mayor of Selma, Alabama, unseating Joe Smitherman who had held office since the voting rights struggles of 1965.",
+            imageUrl: "/sankofa/images/jamesperkinsjr.png"
         },
         invention: {
             name: "Mop",
@@ -614,7 +614,7 @@ export const calendarData = [
             name: 'Septima Clark',
             dates: "(1898–1987)",
             description: "Known as the \"Grandmother of the Civil Rights Movement.\" Clark developed the \"Citizenship Schools\" concept, teaching literacy to adults so they could pass racist voting tests. Her pedagogy was the backbone of the SCLC's voter registration drives.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Septima_Poinsette_Clark.jpg/506px-Septima_Poinsette_Clark.jpg"
+            imageUrl: "/sankofa/images/septimaclark.png"
         },
         invention: {
             name: "Egg Beater",
@@ -639,7 +639,7 @@ export const calendarData = [
             name: 'Mary Church Terrell',
             dates: "(1863–1954)",
             description: "A charter member of the NAACP and the first president of the National Association of Colored Women. Terrell was a lifelong activist who picketed the White House for women's suffrage and desegregated DC restaurants in her 80s.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/5/52/Mary_Church_Terrell_cph.3b17937.jpg"
+            imageUrl: "/sankofa/images/maryterrell.png"
         },
         invention: {
             name: "Lemon Squeezer",
@@ -664,7 +664,7 @@ export const calendarData = [
             name: 'Paul Robeson',
             dates: "(1898–1976)",
             description: "A Renaissance man: NFL player, Columbia Law valedictorian, world-famous actor/singer, and radical activist. He was blacklisted during the McCarthy era for his communist sympathies and refusal to condemn the USSR.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Paul_Robeson_1942_crop.jpg"
+            imageUrl: "/sankofa/images/paulrobeson.png"
         },
         invention: {
             name: "Golf Tee",
@@ -689,7 +689,7 @@ export const calendarData = [
             name: 'Dorothy Height',
             dates: "(1912–2010)",
             description: "President of the National Council of Negro Women for 40 years. Height was the \"glue\" of the Civil Rights movement, focusing on the specific intersectional issues of Black women, including unemployment and illiteracy.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dorothy_Height_at_Library_of_Congress_2004.jpg"
+            imageUrl: "/sankofa/images/dorothyheight.png"
         },
         invention: {
             name: "Improved Ironing Board",
