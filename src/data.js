@@ -33,7 +33,7 @@ export const calendarData = [
             name: 'James Armistead Lafayette',
             dates: "(1748–1830)",
             description: "An enslaved man who served as a double agent for the Continental Army during the Revolutionary War. His intelligence reports were critical to the American victory at Yorktown, yet he had to petition the legislature for his own freedom after the war.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/75/James_Armistead_Lafayette.jpg"
+            imageUrl: "/sankofa/images/jamesl.png"
         },
         invention: {
             name: "Dry Scouring (Dry Cleaning)",
@@ -83,7 +83,7 @@ export const calendarData = [
             name: 'William Ellison',
             dates: "(1790–1861)",
             description: "Born enslaved, Ellison bought his freedom and became a cotton gin maker. He eventually became one of the wealthiest slave owners in South Carolina. His story is a complex, uncomfortable testament to the fluid and brutal nature of the antebellum caste system.",
-            imageUrl: "https://placehold.co/400x500?text=No+Known+Portrait"
+            imageUrl: "/sankofa/images/ellison.png"
         },
         invention: {
             name: "Steam Engine for Ships",
@@ -108,7 +108,7 @@ export const calendarData = [
             name: 'Bass Reeves',
             dates: "(1838–1910)",
             description: "Escaping slavery to live among Native American tribes, Reeves became the first Black Deputy U.S. Marshal west of the Mississippi. He arrested over 3,000 felons and is widely considered the real-life inspiration for \"The Lone Ranger\".",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/77/Bass_reeves_cabinetphoto.jpg"
+            imageUrl: "/sankofa/images/bassreeves.png"
         },
         invention: {
             name: "Folding Chair",
@@ -133,7 +133,7 @@ export const calendarData = [
             name: 'Matthew Henson',
             dates: "(1866–1955)",
             description: "An explorer who accompanied Robert Peary on seven voyages to the Arctic. Henson learned the Inuit language and survival skills, and is often argued to have been the first member of the expedition to actually set foot on the North Pole.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/9/91/Matthew_Henson_1910.jpg"
+            imageUrl: "/sankofa/images/mhenson.png"
         },
         invention: {
             name: "Tricycle",
@@ -158,7 +158,7 @@ export const calendarData = [
             name: 'Granville T. Woods',
             dates: "(1856–1910)",
             description: "Known as the \"Black Edison,\" Woods held over 60 patents. He was a self-taught engineer who successfully defended his patents against Thomas Edison in court, proving his intellectual ownership of his electrical innovations.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Granville_T._Woods_c._1895.jpg/800px-Granville_T._Woods_c._1895.jpg"
+            imageUrl: "/sankofa/images/gwoods.png"
         },
         invention: {
             name: "Induction Telegraphy",
@@ -185,7 +185,7 @@ export const calendarData = [
             name: 'Annie Turnbo Malone',
             dates: "(1869–1957)",
             description: "Before Madam C.J. Walker, there was Annie Turnbo Malone. A chemistry pioneer and beauty mogul, she developed the \"Poro\" system of hair care and built a multi-million dollar empire that employed thousands of Black women.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/eb/AnnieMalone1921.PNG"
+            imageUrl: "/sankofa/images/amalone.png"
         },
         invention: {
             name: "Hair Brush",
@@ -210,7 +210,7 @@ export const calendarData = [
             name: 'Bessie Coleman',
             dates: "(1892–1926)",
             description: "The first African American woman to hold a pilot license. Barred from U.S. flight schools, she taught herself French and traveled to France to earn her license, becoming an icon of aviation and determination.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/29/Bessie_Coleman_in_1923.jpg"
+            imageUrl: "/sankofa/images/bessiecoleman.png"
         },
         invention: {
             name: "Gas Mask (Safety Hood)",
@@ -235,7 +235,7 @@ export const calendarData = [
             name: 'Dr. Charles Drew',
             dates: "(1904–1950)",
             description: "The \"Father of the Blood Bank.\" His doctoral research on blood plasma preservation allowed for the mass storage of blood, saving countless lives during WWII. He resigned from the Red Cross in protest of their policy of segregating blood by race.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/41/Charles_R_Drew_portrait.jpg"
+            imageUrl: "/sankofa/images/drdrew.png"
         },
         invention: {
             name: "Blood Bank System",
@@ -260,7 +260,7 @@ export const calendarData = [
             name: 'Alice Coachman',
             dates: "(1923–2014)",
             description: "The first Black woman to win an Olympic Gold Medal (High Jump, 1948 London Olympics). Her victory challenged the racial and gender barriers of the Jim Crow South and paved the way for future athletes.",
-            imageUrl: "https://upload.wikimedia.org/wikipedia/en/9/91/Alice_Coachman_-_1948.jpg"
+            imageUrl: "/sankofa/images/acoachman.png"
         },
         invention: {
             name: "Potato Chips",
