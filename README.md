@@ -1,4 +1,8 @@
-# React + Vite
+# Sankofa App (BHCAL)
+
+This project is a Black History Calendar application built with React and Vite.
+
+## React + Vite Template Info
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
