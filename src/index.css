@@ -157,9 +157,50 @@ button {
 }
 
 /* Mobile responsive grid */
+/* Mobile responsive grid - Render a mobile "calendar view" */
 @media (max-width: 768px) {
   .calendar-grid {
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    /* Switch to a list/stack view on mobile for better touch targets */
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  /* Hide the desktop days header on mobile */
+  .days-header {
+    display: none;
+  }
+
+  .calendar-day-tile {
+    min-height: 100px;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0 1.5rem;
+    gap: 1.5rem;
+    aspect-ratio: auto;
+    /* Remove square aspect ratio for list items */
+  }
+
+  .calendar-day-tile.revealed .tile-number {
+    position: static;
+    font-size: 2rem;
+    min-width: 40px;
+  }
+
+  .tile-number {
+    font-size: 2rem;
+  }
+
+  .tile-content-preview {
+    transform: none;
+    opacity: 1;
+    text-align: left;
+    margin-top: 0;
+  }
+
+  .sankofa-stamp {
+    right: 1rem;
+    bottom: 0.5rem;
+    transform: scale(0.8);
   }
 }
 
