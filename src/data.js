@@ -8,7 +8,7 @@ export const calendarData = [
             name: 'Elizabeth Freeman ("Mum Bett")',
             dates: "(c. 1744–1829)",
             description: 'Enslaved in Massachusetts, Freeman sued for her freedom in 1781 (Brom and Bett v. Ashley), citing the state constitution\'s claim that "all men are born free and equal." Her victory set the legal precedent that effectively ended slavery in Massachusetts.',
-            imageUrl: "/sankofa/images/mumbett.png"
+            imageUrl: "/images/mumbett.png"
         },
         invention: {
             name: "Striking Wall Clock",
@@ -33,7 +33,7 @@ export const calendarData = [
             name: 'James Armistead Lafayette',
             dates: "(1748–1830)",
             description: "An enslaved man who served as a double agent for the Continental Army during the Revolutionary War. His intelligence reports were critical to the American victory at Yorktown, yet he had to petition the legislature for his own freedom after the war.",
-            imageUrl: "/sankofa/images/jamesl.png"
+            imageUrl: "/images/jamesl.png"
         },
         invention: {
             name: "Dry Scouring (Dry Cleaning)",
@@ -83,7 +83,7 @@ export const calendarData = [
             name: 'William Ellison',
             dates: "(1790–1861)",
             description: "Born enslaved, Ellison bought his freedom and became a cotton gin maker. He eventually became one of the wealthiest slave owners in South Carolina. His story is a complex, uncomfortable testament to the fluid and brutal nature of the antebellum caste system.",
-            imageUrl: "/sankofa/images/ellison.png"
+            imageUrl: "/images/ellison.png"
         },
         invention: {
             name: "Steam Engine for Ships",
@@ -108,7 +108,7 @@ export const calendarData = [
             name: 'Bass Reeves',
             dates: "(1838–1910)",
             description: "Escaping slavery to live among Native American tribes, Reeves became the first Black Deputy U.S. Marshal west of the Mississippi. He arrested over 3,000 felons and is widely considered the real-life inspiration for \"The Lone Ranger\".",
-            imageUrl: "/sankofa/images/bassreeves.png"
+            imageUrl: "/images/bassreeves.png"
         },
         invention: {
             name: "Folding Chair",
@@ -133,7 +133,7 @@ export const calendarData = [
             name: 'Matthew Henson',
             dates: "(1866–1955)",
             description: "An explorer who accompanied Robert Peary on seven voyages to the Arctic. Henson learned the Inuit language and survival skills, and is often argued to have been the first member of the expedition to actually set foot on the North Pole.",
-            imageUrl: "/sankofa/images/mhenson.png"
+            imageUrl: "/images/mhenson.png"
         },
         invention: {
             name: "Tricycle",
@@ -158,7 +158,7 @@ export const calendarData = [
             name: 'Granville T. Woods',
             dates: "(1856–1910)",
             description: "Known as the \"Black Edison,\" Woods held over 60 patents. He was a self-taught engineer who successfully defended his patents against Thomas Edison in court, proving his intellectual ownership of his electrical innovations.",
-            imageUrl: "/sankofa/images/gwoods.png"
+            imageUrl: "/images/gwoods.png"
         },
         invention: {
             name: "Induction Telegraphy",
@@ -185,7 +185,7 @@ export const calendarData = [
             name: 'Annie Turnbo Malone',
             dates: "(1869–1957)",
             description: "Before Madam C.J. Walker, there was Annie Turnbo Malone. A chemistry pioneer and beauty mogul, she developed the \"Poro\" system of hair care and built a multi-million dollar empire that employed thousands of Black women.",
-            imageUrl: "/sankofa/images/amalone.png"
+            imageUrl: "/images/amalone.png"
         },
         invention: {
             name: "Hair Brush",
@@ -210,7 +210,7 @@ export const calendarData = [
             name: 'Bessie Coleman',
             dates: "(1892–1926)",
             description: "The first African American woman to hold a pilot license. Barred from U.S. flight schools, she taught herself French and traveled to France to earn her license, becoming an icon of aviation and determination.",
-            imageUrl: "/sankofa/images/bessiecoleman.png"
+            imageUrl: "/images/bessiecoleman.png"
         },
         invention: {
             name: "Gas Mask (Safety Hood)",
@@ -235,7 +235,7 @@ export const calendarData = [
             name: 'Dr. Charles Drew',
             dates: "(1904–1950)",
             description: "The \"Father of the Blood Bank.\" His doctoral research on blood plasma preservation allowed for the mass storage of blood, saving countless lives during WWII. He resigned from the Red Cross in protest of their policy of segregating blood by race.",
-            imageUrl: "/sankofa/images/drdrew.png"
+            imageUrl: "/images/drdrew.png"
         },
         invention: {
             name: "Blood Bank System",
@@ -260,7 +260,7 @@ export const calendarData = [
             name: 'Alice Coachman',
             dates: "(1923–2014)",
             description: "The first Black woman to win an Olympic Gold Medal (High Jump, 1948 London Olympics). Her victory challenged the racial and gender barriers of the Jim Crow South and paved the way for future athletes.",
-            imageUrl: "/sankofa/images/acoachman.png"
+            imageUrl: "/images/acoachman.png"
         },
         invention: {
             name: "Potato Chips",
@@ -285,7 +285,7 @@ export const calendarData = [
             name: 'Bayard Rustin',
             dates: "(1912–1987)",
             description: "The master strategist of the Civil Rights Movement. As an openly gay man and former communist, he was forced to work in the shadows, yet he was the logistical genius behind the 1963 March on Washington.",
-            imageUrl: "/sankofa/images/brustin.png"
+            imageUrl: "/images/brustin.png"
         },
         invention: {
             name: "Automatic Elevator Doors",
@@ -310,7 +310,7 @@ export const calendarData = [
             name: 'William Hastie',
             dates: "(1904–1976)",
             description: "The first African American federal judge and Governor of the US Virgin Islands. Hastie was a brilliant legal strategist who mentored Thurgood Marshall and laid the architectural groundwork for Brown v. Board of Education.",
-            imageUrl: "/sankofa/images/whastie.png"
+            imageUrl: "/images/whastie.png"
         },
         invention: {
             name: "Fire Escape Ladder",
@@ -335,7 +335,7 @@ export const calendarData = [
             name: 'Fred Hampton',
             dates: "(1948–1969)",
             description: "The charismatic Chairman of the Illinois Black Panther Party. He brokered a non-aggression pact between Chicago's toughest gangs and formed the \"Rainbow Coalition,\" leading to his assassination by the FBI and Chicago Police.",
-            imageUrl: "/sankofa/images/fredhampton.png"
+            imageUrl: "/images/fredhampton.png"
         },
         invention: {
             name: "Home Security System",
@@ -362,7 +362,7 @@ export const calendarData = [
             name: 'Shirley Chisholm',
             dates: "(1924–2005)",
             description: "The first Black woman elected to Congress and the first to seek the Democratic presidential nomination. Her campaign motto, \"Unbought and Unbossed,\" defined her refusal to compromise her principles for political expediency.",
-            imageUrl: "/sankofa/images/shirleychisholm.png"
+            imageUrl: "/images/shirleychisholm.png"
         },
         invention: {
             name: "Sanitary Belt",
@@ -387,7 +387,7 @@ export const calendarData = [
             name: 'Kwame Ture (Stokely Carmichael)',
             dates: "(1941–1998)",
             description: "A SNCC leader who popularized the term \"Black Power.\" He moved the movement from non-violent resistance to a stance of self-defense and Pan-Africanism, arguing for the consolidation of Black political and economic power.",
-            imageUrl: "/sankofa/images/kwameture.png"
+            imageUrl: "/images/kwameture.png"
         },
         invention: {
             name: "Super Soaker",
@@ -412,7 +412,7 @@ export const calendarData = [
             name: 'Barbara Jordan',
             dates: "(1936–1996)",
             description: "The first Southern African American woman elected to the House of Representatives. Known for her thunderous eloquence, her opening statement during the Nixon impeachment hearings revitalized the nation's faith in the Constitution.",
-            imageUrl: "/sankofa/images/barbarajordan.png"
+            imageUrl: "/images/barbarajordan.png"
         },
         invention: {
             name: "Foil Electret Microphone",
@@ -437,7 +437,7 @@ export const calendarData = [
             name: 'Audre Lorde',
             dates: "(1934–1992)",
             description: "A self-described \"black, lesbian, mother, warrior, poet,\" Lorde's work is central to intersectional feminism. She argued that \"the master's tools will never dismantle the master's house,\" calling for new ways of thinking and being.",
-            imageUrl: "/sankofa/images/audrelorde.png"
+            imageUrl: "/images/audrelorde.png"
         },
         invention: {
             name: "Folding Cabinet Bed",
@@ -462,7 +462,7 @@ export const calendarData = [
             name: 'bell hooks',
             dates: "(1952–2021)",
             description: "A cultural critic who explored the \"imperialist white supremacist capitalist patriarchy.\" hooks democratized feminist theory, moving it from the ivory tower to the living room, and analyzed the impact of media on Black identity.",
-            imageUrl: "/sankofa/images/bellhooks.png"
+            imageUrl: "/images/bellhooks.png"
         },
         invention: {
             name: "Dust Pan",
@@ -487,7 +487,7 @@ export const calendarData = [
             name: 'Eunice Hunton Carter',
             dates: "(1899–1970)",
             description: "A trailblazing lawyer and prosecutor. As the only woman and person of color on Thomas Dewey's team, she formulated the strategy to link Lucky Luciano to prostitution, securing his conviction when all other attempts failed.",
-            imageUrl: "/sankofa/images/eunicecarter.png"
+            imageUrl: "/images/eunicecarter.png"
         },
         invention: {
             name: "Record Player Arm",
@@ -512,7 +512,7 @@ export const calendarData = [
             name: 'Jack Johnson',
             dates: "(1878–1946)",
             description: "The first Black heavyweight boxing champion. His 1910 victory over the \"Great White Hope\" Jim Jeffries sparked race riots. Johnson lived unapologetically, driving fast cars and dating white women in defiance of Jim Crow.",
-            imageUrl: "/sankofa/images/jackjohnson.png"
+            imageUrl: "/images/jackjohnson.png"
         },
         invention: {
             name: "Wrench",
@@ -539,7 +539,7 @@ export const calendarData = [
             name: 'Katherine Johnson',
             dates: "(1918–2020)",
             description: "A NASA mathematician whose orbital mechanics calculations were critical to the success of the first U.S. crewed spaceflights. She verified the computer's numbers for John Glenn's orbit, ensuring his safe return.",
-            imageUrl: "/sankofa/images/katherinejohnson.png"
+            imageUrl: "/images/katherinejohnson.png"
         },
         invention: {
             name: "Laserphaco Probe",
@@ -564,7 +564,7 @@ export const calendarData = [
             name: 'Jerry Lawson',
             dates: "(1940–2011)",
             description: "An engineer who led the team that created the Fairchild Channel F, the first video game console to use interchangeable cartridges. Before Lawson, games were hardwired into the system. He is the father of the modern gaming cartridge.",
-            imageUrl: "/sankofa/images/jerrylawson.png"
+            imageUrl: "/images/jerrylawson.png"
         },
         invention: {
             name: "Video Game Cartridge",
@@ -589,7 +589,7 @@ export const calendarData = [
             name: 'James Perkins Jr.',
             dates: "(1953–Present)",
             description: "On September 12, 2000, James Perkins Jr. became the first African American mayor of Selma, Alabama, unseating Joe Smitherman who had held office since the voting rights struggles of 1965.",
-            imageUrl: "/sankofa/images/jamesperkinsjr.png"
+            imageUrl: "/images/jamesperkinsjr.png"
         },
         invention: {
             name: "Mop",
@@ -614,7 +614,7 @@ export const calendarData = [
             name: 'Septima Clark',
             dates: "(1898–1987)",
             description: "Known as the \"Grandmother of the Civil Rights Movement.\" Clark developed the \"Citizenship Schools\" concept, teaching literacy to adults so they could pass racist voting tests. Her pedagogy was the backbone of the SCLC's voter registration drives.",
-            imageUrl: "/sankofa/images/septimaclark.png"
+            imageUrl: "/images/septimaclark.png"
         },
         invention: {
             name: "Egg Beater",
@@ -639,7 +639,7 @@ export const calendarData = [
             name: 'Mary Church Terrell',
             dates: "(1863–1954)",
             description: "A charter member of the NAACP and the first president of the National Association of Colored Women. Terrell was a lifelong activist who picketed the White House for women's suffrage and desegregated DC restaurants in her 80s.",
-            imageUrl: "/sankofa/images/maryterrell.png"
+            imageUrl: "/images/maryterrell.png"
         },
         invention: {
             name: "Lemon Squeezer",
@@ -664,7 +664,7 @@ export const calendarData = [
             name: 'Paul Robeson',
             dates: "(1898–1976)",
             description: "A Renaissance man: NFL player, Columbia Law valedictorian, world-famous actor/singer, and radical activist. He was blacklisted during the McCarthy era for his communist sympathies and refusal to condemn the USSR.",
-            imageUrl: "/sankofa/images/paulrobeson.png"
+            imageUrl: "/images/paulrobeson.png"
         },
         invention: {
             name: "Golf Tee",
@@ -689,7 +689,7 @@ export const calendarData = [
             name: 'Dorothy Height',
             dates: "(1912–2010)",
             description: "President of the National Council of Negro Women for 40 years. Height was the \"glue\" of the Civil Rights movement, focusing on the specific intersectional issues of Black women, including unemployment and illiteracy.",
-            imageUrl: "/sankofa/images/dorothyheight.png"
+            imageUrl: "/images/dorothyheight.png"
         },
         invention: {
             name: "Improved Ironing Board",
