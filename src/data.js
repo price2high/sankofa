@@ -94,7 +94,7 @@ export const calendarData = [
             speaker: "Zora Neale Hurston",
             title: "Folk Songs of Florida (1939)",
             description: "In these WPA recordings, Hurston sings and explains the anthropological significance of work songs. She demonstrates how the oral tradition functioned as a repository of history and a survival mechanism for laborers.",
-            sourceUrl: "https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/documents/audio/"
+            sourceUrl: "https://youtu.be/WddZy7bYy_0?si=YRg35hkPCLKZAZLN"
         },
         fact: {
             title: "Ta Seti (Nubia)",
@@ -144,7 +144,7 @@ export const calendarData = [
             speaker: "Mary McLeod Bethune",
             title: "Brotherhood Luncheon (1955)",
             description: "In her final public speech before her death, Bethune emphasizes the power of education and interracial cooperation. She outlines her vision for a world where \"peace is not just the absence of war, but the presence of brotherhood\".",
-            sourceUrl: "https://www.nps.gov/media/video/view.htm?id=5FECF1B3-1DD8-B71B-0B5B497327BA2199"
+            sourceUrl: "https://youtu.be/pD6tPz033PI?si=70e5SpKycS_Ylwpo"
         },
         fact: {
             title: "Fort Mose",
@@ -196,7 +196,7 @@ export const calendarData = [
             speaker: "James Baldwin",
             title: "The Artist's Struggle for Integrity (1963)",
             description: "Baldwin delivers a philosophical examination of the role of the artist in a society built on lies. He argues that the artist's duty is to disturb the peace and force society to confront its own delusions.",
-            sourceUrl: "https://m.soundcloud.com/brainpicker/james-baldwin-the-artists-struggle-for-integrity-full-lecture?in=tb412/sets/talks"
+            sourceUrl: "https://youtu.be/rGwPv7rm3l4?si=NQn-UYhE5M440hFR"
         },
         fact: {
             title: "Tulsa's Black Wall Street",
@@ -221,7 +221,7 @@ export const calendarData = [
             speaker: "Malcolm X",
             title: "At the Audubon (1964)",
             description: "In this rare late-period speech, Malcolm X moves beyond the Nation of Islam's theology. He discusses Pan-Africanism, the need for human rights (not just civil rights), and global solidarity against oppression.",
-            sourceUrl: "https://teachingamericanhistory.org/document/at-the-audubon/"
+            sourceUrl: "https://youtu.be/n88ONdIISV4?si=9npm5LD3l0AfLAQG"
         },
         fact: {
             title: "Joseph Laroche",
@@ -246,7 +246,7 @@ export const calendarData = [
             speaker: "Lorraine Hansberry",
             title: "The Black Revolution and the White Backlash (1964)",
             description: "Speaking at a Town Hall forum, Hansberry challenges white liberals to understand that Black impatience is not extremism. She famously declares, \"I am not worried about the white man's soul... I am worried about my own\".",
-            sourceUrl: "https://www.lhlt.org/works/audio/lorraine-hansberry-audio-collection-2009"
+            sourceUrl: "https://youtu.be/wqxjc7PULJ8?si=E0v25ktAie0PGYYZ"
         },
         fact: {
             title: "HeLa Cells",
@@ -373,7 +373,7 @@ export const calendarData = [
             speaker: "Shirley Chisholm",
             title: "Speech Introducing the ERA (1969)",
             description: "Chisholm argues that discrimination against women is as insidious and damaging as racial discrimination. She posits that the liberation of one group is inextricably linked to the liberation of the other.",
-            sourceUrl: "https://teachingamericanhistory.org/document/speech-introducing-the-equal-rights-amendment/"
+            sourceUrl: "https://youtu.be/Z-2YLdS-_dQ"
         },
         fact: {
             title: "Recy Taylor",
@@ -398,7 +398,7 @@ export const calendarData = [
             speaker: "Kwame Ture",
             title: "Black Power Speech at UC Berkeley (1966)",
             description: "This seminal speech defines Black Power not as reverse racism, but as a necessary psychological and political shift. Ture argues that Black people must define themselves rather than be defined by white society.",
-            sourceUrl: "https://www.americanrhetoric.com/speeches/stokelycarmichaelblackpower.html"
+            sourceUrl: "https://youtu.be/Tiy_ViFcTNw"
         },
         fact: {
             title: "COINTELPRO",
@@ -550,7 +550,7 @@ export const calendarData = [
             speaker: "Julian Bond",
             title: "Racial Equality in the US (1970)",
             description: "Bond discusses why legal equality (Civil Rights Acts) did not result in economic equality. He warns that the \"easy\" part of movement is over, and the struggle against systemic, economic racism will be much harder.",
-            sourceUrl: "https://library.pdx.edu/news/listen-to-julian-bond-at-portland-state-in-1970/"
+            sourceUrl: "https://youtu.be/TI8vkycHeVM"
         },
         fact: {
             title: "Gladys West & GPS",
@@ -575,7 +575,7 @@ export const calendarData = [
             speaker: "Angela Davis",
             title: "Lectures on Liberation (UCLA)",
             description: "Davis explores the philosophical meaning of freedom. She connects the African American struggle to global anti-colonial movements and critiques the prison industrial complex as a continuation of slavery.",
-            sourceUrl: "https://archive.org/details/LecturesOnLiberation"
+            sourceUrl: "https://youtu.be/AxCqTEMgZUc"
         },
         fact: {
             title: "Lisa Gelobter & The GIF",
@@ -600,7 +600,7 @@ export const calendarData = [
             speaker: "Minister Louis Farrakhan",
             title: "Saviour's Day: P.O.W.E.R. (1985)",
             description: "In this speech, Farrakhan advocates for \"People Organized and Working for Economic Rebirth\" (POWER). He argues for Black economic self-sufficiency and the circulation of the \"Black dollar\" within the community.",
-            sourceUrl: "https://www.youtube.com/embed/s4d-PMK-CCM"
+            sourceUrl: "https://youtu.be/t5DerlM6kLc"
         },
         fact: {
             title: "Marsha at Stonewall",
@@ -625,7 +625,7 @@ export const calendarData = [
             speaker: "Septima Clark",
             title: "Interview with Robert Penn Warren (1964)",
             description: "Clark explains how literacy is a political weapon. She describes the transformative power of teaching a grown man to write his own name, thereby giving him the agency to vote and participate in democracy.",
-            sourceUrl: "https://whospeaks.library.vanderbilt.edu/interview/septima-poinsette-clark"
+            sourceUrl: "https://youtu.be/mQpZeAvV-84?si=ap3zJalgGoAjyBzG"
         },
         fact: {
             title: "The Citizenship Schools",
@@ -650,7 +650,7 @@ export const calendarData = [
             speaker: "Desmond Tutu",
             title: "Nobel Lecture (1984)",
             description: "Bishop Tutu describes the violence of Apartheid and makes a moral case for international sanctions against South Africa. His speech connects the struggle in Soweto to the struggle in Selma.",
-            sourceUrl: "https://www.nobelprize.org/prizes/peace/1984/tutu/lecture/"
+            sourceUrl: "https://youtu.be/eM4BwaOA17o"
         },
         fact: {
             title: "Redlining Maps",
@@ -675,7 +675,7 @@ export const calendarData = [
             speaker: "Nelson Mandela",
             title: "I Am Prepared to Die (1964)",
             description: "The audio from the Rivonia Trial dock where Mandela justifies sabotage as a necessary response to tyranny. He declares his dedication to a democratic society, an ideal for which he is \"prepared to die\".",
-            sourceUrl: "https://www.theguardian.com/world/video/2013/dec/05/nelson-mandela-1964-speech-audio"
+            sourceUrl: "https://www.youtube.com/watch?v=gQvlxnWELHM"
         },
         fact: {
             title: "Bruce's Beach",
@@ -700,7 +700,7 @@ export const calendarData = [
             speaker: "Marian Wright Edelman",
             title: "Sanctity of Each Child (1993)",
             description: "Founder of the Children's Defense Fund, Edelman argues that the moral test of a nation is how it treats its children. She calls for a \"movement\" to disrupt the \"Cradle to Prison Pipeline\".",
-            sourceUrl: "https://www.smu.edu/enrollmentservices/registrar/academicceremonies/aboutus/history/~/media/site/enrollmentservices/registrar/academicceremonies/speakerhistory/speeches/1993-marian-wright-edelman-speech.pdf"
+            sourceUrl: "https://youtu.be/jTVWtrMleI0?si=94Mh-R0amdxIbnud"
         },
         fact: {
             title: "Bass Reeves & The Lone Ranger",
